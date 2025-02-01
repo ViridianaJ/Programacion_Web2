@@ -1,0 +1,53 @@
+En este apartado encontrarás ejercicios de la Unidad 4.
+
+
+
+Programa 001 - Pago Vendedores
+
+Descripción General - Programa que presenta un formulario de captura de datos, calcula el pago individual de un equipo de ventas y presenta los datos obtenidos en una tabla.
+
+El formulario solicita 
+Nombre
+Sueldo Base
+Venta 1
+Venta 2
+Venta 3
+
+El pago por vendedor se calcula al sumar el “sueldo Base” y la comisión de 3 ventas con base en las siguientes condicionales:
+
+Si VENTA < $2000 no existe Comisión
+Si rango de VENTA se encuentra entre $2000 y $5000 aplicar comisión de 5%
+Si ventas son mayores a $5000 aplicar comisión de 10%
+
+Programa 002 - Cobro con Descuento Variable
+
+Descripción General - Diseñe un formulario que registre datos generales de usuario, costo de productos o servicios adquiridos y promociones o descuentos a aplicar.
+El formulario deberá calcular el monto a pagar, considerando los descuentos variables que se pueden aplicar.
+
+Se sugiere:
+
+Clínica Médica.- Formulario que captura datos del paciente y costo de servicios o productos adquiridos (consulta, cirugía, medicamento, etc.). El formulario permite indicar si aplica “Seguro” y/o “Descuento” en algún servicio o producto adquirido.
+ 
+Membresia Gimnasio.- El formulario captura datos del cliente y costo de servicios o productos adquiridos (Pesas, Aerobics, Spining, etc.). 
+El formulario puede registrar si se asiste todos los días, 3 días a la semana, un solo día, etc.
+El formulario permite indicar si aplica “Promoción” y/o “Descuento” en el servicio adquirido (Descuento por adquirir 3 o más actividades, descuento por asistir 5 días a la semana, etc).
+ 
+El programa solicita 
+
+Datos del Cliente
+Costo de Cada Producto y/o Servicio
+Registro de algún tipo de Promoción y/o Descuento
+
+El programa entrega 
+Costo Total sin Descuento 
+Costo Total con Descuento
+
+
+Programa 003 - Equipos
+
+Descripción General - Página que presenta una imagen y un área de texto que modificarán sus propiedades con base en las acciones que realice el usuario sobre una serie de pequeñas imágenes.
+
+Al pasar el puntero del ratón sobre las imágenes/botones de la parte central, se modifica la imagen del lienzo principal.
+
+Al presionar el botón izquierdo del mouse sobre una de las imágenes/botones de la parte central, se modifica la imagen del lienzo principal y se presenta una descripción del personaje en el “Textarea” de la parte inferior.
+
