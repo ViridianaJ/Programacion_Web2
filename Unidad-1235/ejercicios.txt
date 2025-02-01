@@ -1,0 +1,6 @@
+En este apartado encontrarás ejercicios de la Unidad 1 2 3 y 5 referentes a HTML, CSS y JavaScript.
+
+- Unidad 1. Introducción a JavaScript
+- Unidad 5. Modelo de Objetos del Documento (DOM)
+- Unidad 2. Variables, Funciones y Objetos
+- Unidad 3. Estructuras de Control
